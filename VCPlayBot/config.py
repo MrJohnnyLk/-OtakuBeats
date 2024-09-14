@@ -27,4 +27,4 @@ PMPERMIT = getenv("PMPERMIT", None)
 LOG_GRP = getenv("LOG_GRP", None)
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ !").split())
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5096741943").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7054377522").split()))
